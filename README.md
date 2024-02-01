@@ -1,6 +1,6 @@
 # Knowlihub: Bridging Minds, Empowering Futures
 
-![Knowlihub Logo](https://raw.githubusercontent.com/mayura-andrew/mayura_andrew/main/public/images/logo.ico)
+![Knowlihub Logo](https://github.com/mayura-andrew/mayura_andrew/blob/main/public/images/logo.png?raw=true)
 
 ## About Knowlihub
 
